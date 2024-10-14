@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "simple-image-inserter",
-  "insert-unsplash-image"
+  "insert-unsplash-image",
+  "obsidian-style-settings",
+  "make-md"
 ]

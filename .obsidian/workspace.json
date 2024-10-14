@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#center",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,6 +165,7 @@
   },
   "active": "d1ffc4f9083b759f",
   "lastOpenFiles": [
+    "cover-image.png",
     "profile-pic.png",
     "null.md",
     "welcome.md",

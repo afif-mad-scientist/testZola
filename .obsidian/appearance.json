@@ -1,4 +1,7 @@
 {
   "cssTheme": "Encore",
-  "accentColor": "#f7a636"
+  "accentColor": "#f7a636",
+  "enabledCssSnippets": [
+    "mycss"
+  ]
 }
