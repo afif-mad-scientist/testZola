@@ -4,18 +4,18 @@ publish = "public"
 
 [build.environment]
 # (Optional) Text in landing page button
-LANDING_BUTTON = "Click to steal some👆"
+LANDING_BUTTON = "Click to discover what I did 👆"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "I have nothing but intelligence."
+LANDING_DESCRIPTION = "Documentation du travail dans le Fablab dans le cadre du projet de realisation d'un capteur."
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "welcome"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "Welcome to my documentation! 💖"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/afif-mad-scientist/testZola.git"
 # (Optional) Site title in navbar
-SITE_TITLE = "Someone's Second 🧠"
+SITE_TITLE = "Mohamed-afif Fablab Doc 📙"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
@@ -32,7 +32,7 @@ SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
 HOME_GRAPH = "y"
 # (Optional, default true) Shows knowledge graph on every page. Put "" to disable.
-PAGE_GRAPH = "y"
+PAGE_GRAPH = ""
 # (Optional, default false) Whether sidebar sections should be collapsed by default.
 SIDEBAR_COLLAPSED = ""
 # (Optional, default blank) Additional footer content.
