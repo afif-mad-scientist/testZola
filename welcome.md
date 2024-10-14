@@ -7,7 +7,7 @@ cssclasses:
 banner: https://mir-s3-cdn-cf.behance.net/project_modules/fs/7e3d5e81488145.5d050548d72a7.jpg
 banner_x: 0.5
 banner_y: 0.34
-banner_lock: true
+banner_lock: false
 ---
 
 # 001
@@ -40,7 +40,6 @@ banner_lock: true
 >>  TABLE WITHOUT ID link(file.link, title) AS "File",
 >>    bar AS "Status" FROM #todo OR #backlog AND !#dailynote AND -"templates" SORT file.ctime LIMIT 10
 >> ```
->
 >> [!blank-container]
 >> ## Recently Created 🐣
 >> ```dataview
@@ -53,3 +52,10 @@ banner_lock: true
 >> ```dataview
 >>  TABLE WITHOUT ID link(file.link, title) AS "File", sr-due as "Due" FROM #review WHERE sr-due <= date(today) SORT sr-due LIMIT 10
 >> ```
+
+
+
+| **I am a table** | **col 1** | **col 2** | **col3** |
+| ---------------- | --------- | --------- | -------- |
+| row 1            | 1         | 2         | 3        |
+| row 2            | 4         | 5         | 6        |
