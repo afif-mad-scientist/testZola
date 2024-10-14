@@ -17,3 +17,12 @@ Ce document sert à tracer le travail réalisé au Fablab de Paris-Saclay. Le bu
 | C / C++ ⭐⭐⭐               | Blender ⭐⭐⭐      |              | Arduino ⭐⭐⭐      |
 | HTML / CSS / JS / PHP ⭐⭐⭐ |                  |              | Data Science ⭐⭐⭐ |
 
+### Mes centres d'intérêts ✨:
+- Astronomie
+- Photographie
+- Gaming
+- Graphic Design
+- Cuisine
+
+
+
