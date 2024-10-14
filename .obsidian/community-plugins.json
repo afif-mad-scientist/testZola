@@ -1,4 +1,5 @@
 [
-  "make-md",
-  "obsidian-git"
+  "obsidian-git",
+  "simple-image-inserter",
+  "insert-unsplash-image"
 ]
