@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "welcome.md",
+                "file": "Impression 3D/01. Se familiariser avec l'impression 3D.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "welcome.md",
+                "file": "Impression 3D/01. Se familiariser avec l'impression 3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "welcome.md",
+                "file": "Impression 3D/01. Se familiariser avec l'impression 3D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +146,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "welcome.md"
+                "file": "Impression 3D/01. Se familiariser avec l'impression 3D.md"
               }
             }
+          },
+          {
+            "id": "7fa71a71de55e71c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,16 +172,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d72b4d72174f07a",
+  "active": "9774b2943100dcd2",
   "lastOpenFiles": [
+    "folder 2/Untitled.canvas",
+    "Impression 3D/01. Se familiariser avec l'impression 3D.md",
+    "welcome.md",
     "Tags",
     "Impression 3D/note 2.md",
-    "welcome.md",
-    "Impression 3D/Se familiariser avec l'impression 3D.md",
-    "folder 2/Untitled.canvas",
     "folder 2/note 4.md",
     "folder 2/note 3.md",
     "folder 2",
