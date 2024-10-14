@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,13 +177,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fa71a71de55e71c",
+  "active": "2d72b4d72174f07a",
   "lastOpenFiles": [
+    "Impression 3D/note 2.md",
     "folder 2/Untitled.canvas",
     "Impression 3D/01. Se familiariser avec l'impression 3D.md",
     "welcome.md",
     "Tags",
-    "Impression 3D/note 2.md",
     "folder 2/note 4.md",
     "folder 2/note 3.md",
     "folder 2",
