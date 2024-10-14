@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Impression 3D/note 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d72b4d72174f07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,13 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d72b4d72174f07a",
+  "active": "9f8bb0edcb585948",
   "lastOpenFiles": [
-    "test 1.md",
+    "Impression 3D/note 2.md",
     "welcome.md",
+    "test 1.md",
     "Impression 3D/01. Se familiariser avec l'impression 3D.md",
     "test.md",
-    "Impression 3D/note 2.md",
     "folder 2/Untitled.canvas",
     "Tags",
     "folder 2/note 4.md",
